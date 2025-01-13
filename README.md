@@ -24,10 +24,10 @@ Conduct EDA to understand the data and identify trends:
 -	Total Sales: =SUM(range)
 -	Sales Variance: =VAR.P(range)
 -	Visualization:
--	Line Chart: Highlight trends over time.
-	Select data > Insert > Line Chart.
-- Pivot Table: Summarize sales by month/year.
-	Select data > Insert > Pivot Table.
+	Line Chart: Highlight trends over time.
+	  - Select data > Insert > Line Chart.
+        Pivot Table: Summarize sales by month/year.
+	 - Select data > Insert > Pivot Table.
 5. **Time Series Analysis**
 Sales data is often a time series, so specific methods are applied:
 -	Trend analysis: Determine if sales are increasing, decreasing, or stable over time.
@@ -50,7 +50,7 @@ Once a model is selected:
 -	Create a Line Chart comparing actual and forecasted sales.
 -	Add labels and trendlines for clarity.
 -	Visualization: Use dashboards to visualize Lower & Upper forecast bounds for stakeholders.
-
+![1](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
 9. **Insights and Recommendations**
 Based on the forecast:
 -	Inventory Management: Adjust inventory levels to avoid overstocking or stockouts.
