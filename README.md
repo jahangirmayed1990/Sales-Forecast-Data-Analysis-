@@ -8,7 +8,7 @@ The primary goal of sales forecasting is to estimate future sales over a specifi
 -	Set realistic sales targets.
 -	Predict Maximum and Minimum Sales Target.
 2. **Data Collection**
-Collect historical sales data, and ensure sales-related info includes the following columns:
+Collect historical sales data <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">sales data </a>, and ensure sales-related info includes the following columns:
 -	Date: When the sales were made.
 -	Product: Description of the product.
 -	Quantity Sold: Number of units sold.
@@ -24,10 +24,10 @@ Conduct EDA to understand the data and identify trends:
 -	Total Sales: =SUM(range)
 -	Sales Variance: =VAR.P(range)
 -	Visualization:
-	Line Chart: Highlight trends over time.
-	  - Select data > Insert > Line Chart.
-        Pivot Table: Summarize sales by month/year.
-	 - Select data > Insert > Pivot Table.
+Line Chart: Highlight trends over time.
+	- Select data > Insert > Line Chart.
+Pivot Table: Summarize sales by month/year.
+	- Select data > Insert > Pivot Table.
 5. **Time Series Analysis**
 Sales data is often a time series, so specific methods are applied:
 -	Trend analysis: Determine if sales are increasing, decreasing, or stable over time.
