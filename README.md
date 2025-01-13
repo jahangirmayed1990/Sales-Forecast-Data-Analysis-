@@ -8,7 +8,7 @@ The primary goal of sales forecasting is to estimate future sales over a specifi
 -	Set realistic sales targets.
 -	Predict Maximum and Minimum Sales Target.
 2. **Data Collection**
-Collect historical sales data <a href=" https://github.com/jahangirmayed1990/Sales-Forecast-Data-Analysis-/blob/main/Forecasting%20functions%20with%20visualization.xlsx ">sales data </a>, and ensure sales-related info includes the following columns:
+Collect historical sales data <a href="https://github.com/jahangirmayed1990/Sales-Forecast-Data-Analysis-/blob/main/Forecasting%20functions%20with%20visualization.xlsx">sales data </a>, and ensure sales-related info includes the following columns:
 -	Date: When the sales were made.
 -	Product: Description of the product.
 -	Quantity Sold: Number of units sold.
