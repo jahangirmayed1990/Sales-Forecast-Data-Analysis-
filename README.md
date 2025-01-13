@@ -47,18 +47,19 @@ Evaluate the model's accuracy using metrics like:
 8. Model Deployment
 Once a model is selected:
 •	Overlay Actual vs. Forecasted Sales:
-o	Create a Line Chart comparing actual and forecasted sales.
-o	Add labels and trendlines for clarity.
+•	Create a Line Chart comparing actual and forecasted sales.
+•	Add labels and trendlines for clarity.
 •	Visualization: Use dashboards to visualize forecast on Lower & Upper forecast bound for stakeholders.
 
 9. Insights and Recommendations
 Based on the forecast:
-<d>•	Inventory Management: Adjust inventory levels to avoid overstocking or stockouts.</d>
-<d>•	Marketing Strategies: Plan campaigns during high sales periods.</d>
-<d>•	Resource Allocation: Optimize staffing and budget allocations.</d>
+•	Inventory Management: Adjust inventory levels to avoid overstocking or stockouts.
+•	Marketing Strategies: Plan campaigns during high sales periods.
+•	Resource Allocation: Optimize staffing and budget allocations.
+<d>
 10. Continuous Improvement
 Sales forecasting is an ongoing process:
 •	Regular Updates: Incorporate new data and retrain models regularly.
 •	Feedback Loop: Use actual sales data to refine forecasts.
 •	Monitoring: Continuously monitor model performance and make adjustments.
-
+</d>
